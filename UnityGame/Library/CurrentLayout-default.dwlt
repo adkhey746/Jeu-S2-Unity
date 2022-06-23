@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 100
+  controlID: 177
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 101
+  controlID: 178
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 102
+  controlID: 179
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -365,10 +365,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 32}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3a37ffff483affff743bffffa83cffff6afbffff
+      scrollPos: {x: 0, y: 1166}
+      m_SelectedIDs: 54c7ffff
+      m_LastClickedID: -14508
+      m_ExpandedIDs: bedbffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -428,9 +428,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.2397547, y: 1.2373962, z: -3.433597}
+    m_Target: {x: 6.6649218, y: 4.187366, z: -3.59936}
     speed: 2
-    m_Value: {x: 4.2397547, y: 1.2373962, z: -3.433597}
+    m_Value: {x: 6.6649218, y: 4.187366, z: -3.59936}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -476,13 +476,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.27907127, y: 0.6492426, z: -0.2785685, w: 0.65041673}
+    m_Target: {x: 0.035814837, y: 0.7150347, z: -0.03671226, w: 0.6972415}
     speed: 2
-    m_Value: {x: 0.27948335, y: 0.64825356, z: -0.27814415, w: 0.65137714}
+    m_Value: {x: 0.035868958, y: 0.71396995, z: -0.036657564, w: 0.69829553}
   m_Size:
-    m_Target: 9.905373
+    m_Target: 9.054295
     speed: 2
-    m_Value: 10.372118
+    m_Value: 8.664396
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -558,8 +558,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -611.5
     m_HBaseRangeMax: 611.5
-    m_VBaseRangeMin: -313
-    m_VBaseRangeMax: 313
+    m_VBaseRangeMin: -323.5
+    m_VBaseRangeMax: 323.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -576,11 +576,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1223
-      height: 626
+      height: 647
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 611.5, y: 313}
+    m_Translation: {x: 611.5, y: 323.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -588,9 +588,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -611.5
-      y: -313
+      y: -323.5
       width: 1223
-      height: 626
+      height: 647
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1223, y: 647}
@@ -638,20 +638,20 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/SciFi Warehouse Kit/Prefabs/Props/Shelves
+    - Assets/SciFi Warehouse Kit/Prefabs/Props/Misc Props
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/SciFi Warehouse Kit/Prefabs/Props/Shelves
+  - Assets/SciFi Warehouse Kit/Prefabs/Props/Misc Props
   m_LastFoldersGridSize: 50
   m_LastProjectPath: C:\Users\Mathis Sportiello\Desktop\GitHub\Jeu-S2-Unity\UnityGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 138}
-    m_SelectedIDs: 04340000
-    m_LastClickedID: 13316
-    m_ExpandedIDs: 0000000082330000fa330000063400000c340000163400002634000000ca9a3b
+    scrollPos: {x: 0, y: 154}
+    m_SelectedIDs: 76390000
+    m_LastClickedID: 14710
+    m_ExpandedIDs: 000000002c390000663900006a3900006c390000723900007839000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,7 +679,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000082330000
+    m_ExpandedIDs: 000000002c390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
